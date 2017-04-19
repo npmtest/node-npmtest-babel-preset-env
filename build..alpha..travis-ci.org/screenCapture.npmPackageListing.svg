@@ -1,0 +1,20 @@
+<svg height="270" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="270" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-19 00:40:18 +0000    88468 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-19 00:40:18 +0000    20159 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-19 00:40:18 +0000     2743 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-19 00:40:18 +0000     1062 bytes  LICENSE</tspan>
+<tspan x="10" y="90">  4.  2017-04-19 00:40:18 +0000    11972 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-19 00:40:18 +0000     7904 bytes  data/built-in-features.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-19 00:40:18 +0000    14392 bytes  data/built-ins.json</tspan>
+<tspan x="10" y="138">  7.  2017-04-19 00:40:18 +0000     2683 bytes  data/plugin-features.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-19 00:40:18 +0000     4106 bytes  data/plugins.json</tspan>
+<tspan x="10" y="170">  9.  2017-04-19 00:40:18 +0000      148 bytes  lib/default-includes.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-19 00:40:18 +0000     9096 bytes  lib/index.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-19 00:40:18 +0000      247 bytes  lib/module-transformations.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-19 00:40:18 +0000     5241 bytes  lib/normalize-options.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-19 00:40:18 +0000     2853 bytes  lib/transform-polyfill-require-plugin.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-19 00:40:18 +0000     5862 bytes  package.json</tspan>
+</text>
+</svg>
