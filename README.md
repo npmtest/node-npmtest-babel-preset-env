@@ -1,6 +1,6 @@
 # npmtest-babel-preset-env
 
-#### test coverage for  [babel-preset-env (v1.4.0)](https://babeljs.io/)  [![npm package](https://img.shields.io/npm/v/npmtest-babel-preset-env.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-babel-preset-env) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-babel-preset-env.svg)](https://travis-ci.org/npmtest/node-npmtest-babel-preset-env)
+#### basic test coverage for  [babel-preset-env (v1.4.0)](https://babeljs.io/)  [![npm package](https://img.shields.io/npm/v/npmtest-babel-preset-env.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-babel-preset-env) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-babel-preset-env.svg)](https://travis-ci.org/npmtest/node-npmtest-babel-preset-env)
 
 #### A Babel preset for each environment.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-babel-preset-env/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-babel-preset-env/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-babel-preset-env/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-babel-preset-env/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-babel-preset-env/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-babel-preset-env/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-babel-preset-env/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-babel-preset-env/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-babel-preset-env/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-babel-preset-env/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-babel-preset-env/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-babel-preset-env/build/coverage.html/index.html)
 
@@ -163,7 +163,8 @@
         "test-ci": "nyc npm run test",
         "test-only": "mocha ./test --compilers js:babel-register -t 10000"
     },
-    "version": "1.4.0"
+    "version": "1.4.0",
+    "bin": {}
 }
 ```
 
